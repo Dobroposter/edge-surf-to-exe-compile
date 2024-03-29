@@ -6,7 +6,7 @@ The *Let's Surf* + *Let's Ski* game from Microsoft Edge.
 </p>
 
 ## Play
-Play online at https://yell0wsuit.page/html5-games/games/edge-surf/
+Play online at https://dobroposter.github.io/edge-surf-to-exe-compile/
 
 For offline play, go to the website and install this game as a web app (easiest method). Check the install button in the address bar of the browser.  
 On iOS, you need to use Safari and add the page to the homescreen.  
