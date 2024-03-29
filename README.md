@@ -1,8 +1,6 @@
 # Microsoft Edge's *Let's Surf* + *Let's Ski*
 The *Let's Surf* + *Let's Ski* game from Microsoft Edge.
 
-Also check out [Chrome Dino](https://github.com/yell0wsuit/chrome-dino-enhanced) that saves your highscore.
-
 <p align="center">
   <img src="https://i.imgur.com/9ybOdy7.png"/>
 </p>
