@@ -8,7 +8,7 @@ The *Let's Surf* + *Let's Ski* game from Microsoft Edge.
 ## Play
 Play online at https://dobroposter.github.io/edge-surf-to-exe-compile/
 
-For offline play, go to the website and install this game as a web app (easiest method). Check the install button in the address bar of the browser.  
+For offline play, go to the website and install this game as a web app (easiest method) OR <a href="https://github.com/Dobroposter/edge-surf-to-exe-compile">download this repository</a>. Check the install button in the address bar of the browser.  
 On iOS, you need to use Safari and add the page to the homescreen.  
 On Chrome Android, a notification may appear at the bottom of the screen.
 
